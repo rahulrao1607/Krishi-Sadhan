@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.krishi_sadan">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.KRISHI_SADAN"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".Activity.allcropactivity.Rabi_crops"></activity>
+        <activity android:name=".Activity.allcropactivity.Vegetable_crop" />
+        <activity android:name=".Activity.allcropactivity.Decrotive_Crops" />
+        <activity android:name=".Activity.allcropactivity.Spices_crops" />
+        <activity android:name=".Activity.allcropactivity.Animal_crop" />
+        <activity android:name=".Activity.allcropactivity.Fruit_crop" />
+        <activity android:name=".Activity.allcropactivity.Kharif_crop" />
+        <activity android:name=".Activity.Dashboard" />
+        <activity android:name=".Activity.settingProf" />
+        <activity android:name=".Activity.ChatActivity" />
+        <activity android:name=".Activity.WeatherActivity" />
+        <activity android:name=".Activity.experTalk" />
+        <activity android:name=".Activity.DrawerbaseActivity" />
+        <activity android:name=".Activity.Signup" />
+        <activity android:name=".Activity.Home" />
+        <activity android:name=".Activity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
