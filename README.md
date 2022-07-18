@@ -1,7 +1,7 @@
 # Krishi-Sadhan
 <h1 align="center"> Krishi-Sadhan </h1>
 <p align="center">
-<a href="https://github.com/rahulrao1607/"><img src="screenshot\kri2.png" alt="krishi-app" width="200" align = "center"></a>
+<img src="screenshot\kri2.png" alt="krishi-app" width="200" align = "center"></a>
 </p>
 
 - It is a Cross-Platform Application.
