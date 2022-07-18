@@ -30,7 +30,7 @@
     - Realtime Database -------> for real time Chatting
 
 <p align="center">
-<img src="screenshot\capture.png" alt="tech-used" width="500" align = "center">
+<img src="screenshot\capture.png" alt="tech-used" width="300" align = "center">
 </p>
 
 
@@ -39,20 +39,20 @@
 <img src="screenshot\login.jpg" alt="start screen" width="40%" align = "center">
 
 ## 1. Sign / Sign Up
-<img src="./screenshot/prof.jpg" alt="auth" width="100%" align = "center">
+<img src="./screenshot/prof.jpg" alt="auth" width="40%" align = "center">
 
 ## 3. Profile [Patient(left) and Doctor(right)]
 - Profile of the expert 
-<img src="screenshot\Screenshot (289).png" alt="profile of both" width="100%" align = "center">
+<img src="screenshot\Screenshot (289).png" alt="profile of both" width="500%" align = "center">
 
 ## 4 Chatting
 - Farmer and expert can chat directly with each other.
 
-<img src="screenshot\chat1.jpg" alt="chatting" width="100%" align = "center">
+<img src="screenshot\chat1.jpg" alt="chatting" width="40%" align = "center">
 
 - How chat look alike
 
-<img src="screenshot\chat.jpg" alt="chatting" width="100%" align = "center">
+<img src="screenshot\chat.jpg" alt="chatting" width="40%" align = "center">
 
 
 ##  5 Dashboard
@@ -60,21 +60,21 @@
 - on left corner we can see there is a drawer base activity
 
 
-<img src="screenshot\dash.jpg" alt="chatting" width="100%" align = "center">
+<img src="screenshot\dash.jpg" alt="chatting" width="40%" align = "center">
 
 - on clicking on drwawer base this slot will come
 
 
-<img src="screenshot\drawerbase.jpg" alt="chatting" width="100%" align = "center">
+<img src="screenshot\drawerbase.jpg" alt="chatting" width="40%" align = "center">
 
 - weather activity
 
 
-<img src="screenshot\weather.jpg" alt="chatting" width="100%" align = "center">
+<img src="screenshot\weather.jpg" alt="chatting" width="40%" align = "center">
 
 ## 6 Database
 - all data is stored in the database.
-<img src="./screenshot/Screenshot (291).png" alt="database" width="100%" align = "center">
+<img src="./screenshot/Screenshot (291).png" alt="database" width="600%" align = "center">
 
 ---
 <h1 align="center"> Thank You </h1>
